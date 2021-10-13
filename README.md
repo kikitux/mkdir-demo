@@ -65,3 +65,17 @@ bash mkdir-demo.sh
 ```
 ls -al
 ```
+
+==
+
+for new task
+
+# TODO
+- [ ] what
+- [ ] what
+- [ ] what
+
+# DONE
+- [x] what
+- [x] what
+- [x] what
